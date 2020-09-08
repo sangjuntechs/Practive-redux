@@ -11,3 +11,4 @@ app에서 불러온뒤 App 컴포넌트에 provider를 랩핑한 후 store값 �
 - 📘모듈을 불러올 시 보통 container 안에 component들을 랜더링하고 react-redux안의 useSelector을 통해
 만든 모듈안의 상태들을 가져온다.
 
+- 🛠 redux-devtools-extension 크롬익스텐션 리덕스 데브툴을 이용해 store의 상태를 간편히 확인할 수 있음.
